@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoinbaseExchange</string>
+    <string name="input_figure">Input figure</string>
+</resources>
